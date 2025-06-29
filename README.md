@@ -1,2 +1,1 @@
-# bubble-pop-game
-Awesome bubble popping mobile game
+txtkivy==2.1.0
